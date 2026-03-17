@@ -55,3 +55,6 @@ ORDER BY age_group;
 ## 🤝 How I Use AI in My Learning
 I use AI tools (DeepSeek) as a pair programmer — it helps me write complex syntax while I focus on the logic, interpretation, and clinical relevance. 
 Every query here is something I understand and can explain.
+
+## 📬 Contact
+**Miriam** – [Email](mailto:miriam.gp1000@gmail.com) | [LinkedIn](https://linkedin.com/in/miriam-gonzalez-a8793a381)
