@@ -60,5 +60,3 @@ Every query here is something I understand and can explain.
 
 ## 📬 Contact
 **Miriam** – [Email](mailto:miriam.gp1000@gmail.com) | [LinkedIn](https://linkedin.com/in/miriam-gonzalez-a8793a381)
-ORDER BY occurrence_count DESC
-LIMIT 10;
